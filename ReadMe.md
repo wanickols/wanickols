@@ -1,5 +1,4 @@
-# Hi there | 👋 
-
+# Hi there 👋 
 ## 😊 Who am I?
 
 🎓 I am William Nickols, a student and an aspiring Software Engineer. I am Pursuing my Bachelor in Computer Science and will graduate in mid-2023.
@@ -49,7 +48,11 @@ there for years to come, and so I approach it as such.
 
 ## Contact me?
 Right now it is best to reach me by either
-[][wanickols@ualr.edu] or my personal email [][andrewnickols50@gmail.com]
+[my school email](wanickols@ualr.edu) or [my personal email](andrewnickols50@gmail.com).
+
+Thank you!
+
+[Top](Hi-there-👋)
 <br />
 <br />
 
