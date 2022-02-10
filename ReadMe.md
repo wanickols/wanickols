@@ -52,7 +52,7 @@ Right now it is best to reach me by either
 
 Thank you!
 
-[Top](Hi-there-👋)
+[My Home Page](https://github.com/wanickols01)
 <br />
 <br />
 
