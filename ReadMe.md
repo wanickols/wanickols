@@ -12,10 +12,10 @@
 
 ## 🛠️ Some of my Skills?
 ### 💻 Languages
-C++ C# Java javascript Python
+C++ C# Java Python
 
 ### 🌐 Front-End Development
-html css jquery
+html css jquery javascript
 
 ### 🎨 Design Tools
 adobe-photoshop adobe-Illustrate Blender
@@ -27,7 +27,7 @@ i7-10th-gen gtx-1660 Ti windows
 ### ♾️ Game Engines
 unreal unity none
 ### ⚙️ IDEs
-visual-code eclipse android-studio
+visual-studio eclipse android-studio
 <br />
 <br />
 ## 🚪 What is next?
