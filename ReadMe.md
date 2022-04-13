@@ -12,7 +12,7 @@
 
 ## 🛠️ Some of my Skills?
 ### 💻 Languages
-C++ C# Java Python
+C++ C# Java Python SQL
 
 ### 🌐 Front-End Development
 html css jquery javascript
