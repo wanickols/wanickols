@@ -37,12 +37,15 @@ adobe-photoshop adobe-Illustrate Blender
 
 ## Equipment, IDEs, and Engines
 ### 🖥️ Workspace Setup
-i7-10th-gen gtx-1660 Ti windows
+i7-13th-gen 3080 Ti windows along with 
+<br/>
+i7-10th-gen 1660 Ti laptop
+
 ### ♾️ Game Engines
 unreal unity none(from scratch)
+
 ### ⚙️ IDEs
 visual-studio eclipse android-studio xcode
-<br />
 <br />
 
 ## Contact me?
