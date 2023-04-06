@@ -26,7 +26,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wanickols01&theme=dracula)
 
 ### 💻 Languages I know well
-C++ C# Java html css 
+C++ C# Java html css Dart
 
 ### 🌐 Languages I am learning or have used before
 javascript Python SQL
