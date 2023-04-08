@@ -52,6 +52,8 @@ visual-studio eclipse android-studio xcode
 Currently, it is best to reach me by either
 [my school email](wanickols@ualr.edu) or [my personal email](andrewnickols50@gmail.com).
 
+[![LinkedIn](https://raw.githubusercontent.com/wanickols01/wanickols01/master/images/li.svg)](https://uk.linkedin.com/in/william-andrew-nickols/)
+
 Thank you!
 
 [Top](https://github.com/wanickols01)
