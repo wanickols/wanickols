@@ -1,12 +1,12 @@
 <p align="center">
-<a href="https://github.com/wanickols01">
+<a href="https://github.com/wanickols">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=William+Nickols;Researcher+%7C+BS Computer Science+%7C+Software+Engineer;AI+%7C+Game+Development+%7C+Exploration" alt="Typing SVG" />
 </a>
 <br/>
  
 
-<a href="https://github.com/wanickols01">
-    <img src="https://github-stats-alpha.vercel.app/api?username=wanickols01&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+<a href="https://github.com/wanickols">
+    <img src="https://github-stats-alpha.vercel.app/api?username=wanickols&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
 </p>
@@ -22,8 +22,8 @@
 
 ## 🛠️ Some of my Skills?
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wanickols01&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wanickols01&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wanickols&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wanickols&theme=dracula)
 
 ### 💻 Languages I am confident in
 C++ C# Java html/css Dart
@@ -55,10 +55,10 @@ visual-studio eclipse android-studio xcode
 Currently, it is best to reach me by either
 [my work email](wanickols@ualr.edu) or [my personal email](andrewnickols50@gmail.com).
 
-[![LinkedIn](https://raw.githubusercontent.com/wanickols01/wanickols01/master/images/li.svg)](https://uk.linkedin.com/in/william-andrew-nickols/)
+[![LinkedIn](https://raw.githubusercontent.com/wanickols/wanickols/master/images/li.svg)](https://uk.linkedin.com/in/william-andrew-nickols/)
 
 Thank you!
 
-[Top](https://github.com/wanickols01)
+[Top](https://github.com/wanickols)
 <br />
 
