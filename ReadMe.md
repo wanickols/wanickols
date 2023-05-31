@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/wanickols01">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=William+Nickols;Researcher+%7C+Bachelor+Student+%7C+Software+Engineer;AI+%7C+Game+Development+%7C+Exploration" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=William+Nickols;Researcher+%7C+BS Computer Science+%7C+Software+Engineer;AI+%7C+Game+Development+%7C+Exploration" alt="Typing SVG" />
 </a>
 <br/>
  
@@ -11,13 +11,13 @@
 
 </p>
 
-🎓 Pursuing my Bachelor in Computer Science and will graduate in mid-2023.
+🎓 Graduated may 2023 with bachelors of Computer Science.
 
 👨‍💻 I have mostly been focused on personal projects to better myself, but over the course of this year and years to come I hope to incrementally contribute to more open source projects. 
 
 🎹 Outside the world of tech, my hobbies extend from piano, sketching, and soccer to the most important: Games 🎮.
 
-📚 I am currently learning Machine Learning concepts using python, working with a team to create a full-stack project for a volunteer organization, and working as a mobile app developer
+📚 I am currently learning Machine Learning concepts using python, working on a new personal game, and trying to get expierence through work. 
 <br />
 
 ## 🛠️ Some of my Skills?
@@ -25,14 +25,17 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wanickols01&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wanickols01&theme=dracula)
 
-### 💻 Languages I know well
-C++ C# Java html css Dart
+### 💻 Languages I am confident in
+C++ C# Java html/css Dart
 
 ### 🌐 Languages I am learning or have used before
 javascript Python SQL
 
-### 🎨 Design Tools
-adobe-photoshop adobe-Illustrate Blender
+### 🖌️ Design Tools
+#### 🎨 Visual 
+adobe-photoshop adobe-Illustrate Blender GIMP 
+#### 🎵 Music
+Audacity 
 <br />
 
 ## Equipment, IDEs, and Engines
@@ -50,7 +53,7 @@ visual-studio eclipse android-studio xcode
 
 ## Contact me?
 Currently, it is best to reach me by either
-[my school email](wanickols@ualr.edu) or [my personal email](andrewnickols50@gmail.com).
+[my work email](wanickols@ualr.edu) or [my personal email](andrewnickols50@gmail.com).
 
 [![LinkedIn](https://raw.githubusercontent.com/wanickols01/wanickols01/master/images/li.svg)](https://uk.linkedin.com/in/william-andrew-nickols/)
 
