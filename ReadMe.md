@@ -17,7 +17,7 @@
 
 🎹 Outside the world of tech, my hobbies extend from piano, sketching, and soccer to the most important: Games 🎮.
 
-📚 I am currently learning Machine Learning concepts using python, working on a new personal game, and trying to get expierence through work. 
+📚 I am currently learning to use VR and focusing on volumetric rendering tactics, working on a personal game, and trying to get expierence through work. 
 <br />
 
 ## 🛠️ Some of my Skills?
