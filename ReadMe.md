@@ -11,13 +11,14 @@
 
 </p>
 
-🎓 Graduated may 2023 with bachelors of Computer Science.
+## 🤔 Who am I?
+🎓 I Graduated may 2023 with bachelors of Computer Science.
 
 👨‍💻 I have mostly been focused on personal projects to better myself, but over the course of this year and years to come I hope to incrementally contribute to more open source projects. 
 
 🎹 Outside the world of tech, my hobbies extend from piano, sketching, and soccer to the most important: Games 🎮.
 
-📚 I am currently learning to use VR focusing on volumetric rendering tactics, working on a personal game, and trying to get experience through work. 
+📚 I am currently learning to use VR focusing on volumetric rendering tactics, working on a personal game, and getting experience through work.
 <br />
 
 ## 🛠️ Some of my Skills?
@@ -39,18 +40,16 @@ Audacity
 <br />
 
 
-## Concepts?
+## 🪧 Concepts? 
 This is hard to write in a list form, as each topic could have varying levels of familiarty. So instead of just one word list, here are some qeustions and answers:
 
-### Some common questions that I would answer yes to:
-- Are you familiar with Object Oriented Programming? | Yes, I learned programming in college with C++, which taught me the principles of OOP such as classes, inheritance, polymorphism, and encapsulation.
-- Have you ever worked with a full stack project? |  Yes, I have developed web applications using C# .NET framework, both hosted on Azure and self-hosted. I have used HTML, CSS, JavaScript, and Bootstrap for the front-end, and ASP.NET MVC and Web API for the back-end.
--  Do you have experience with databases? | Yes, I have worked with SQL and MySQL databases for various projects. For example, I created a database-driven website intended to organzie residents and their stays for Salvation Army (This was non-commercial, but for Capstone).
-- Are you familair with the AGILE methodology? | I am. I have been using it via JIRA for the past 2 years and while I am not a strong advocate for it, I could work in a team using it. 
-### Some questions I'd clarify on
-- Are you knowledgable on data structures and algorithims? | I am familiar with most data structures, and most of the more common algorithims. It's been years since I had to make one from scratch, so please don't waste our time. I know when to use them, but in general, I will do a bit of research to make sure I am not recreating something that already exists, and that I am using the optimal data structure or algorithim. I'd rather double check when needed than memorize them all.
-
-
+### 😊 Some common questions that I would answer yes to:
+- Are you familiar with Object Oriented Programming? 👩‍👦‍👧 Yes, I learned programming in college with C++, which taught me the principles of OOP such as classes, inheritance, polymorphism, and encapsulation. Since then, I have worked with unity using C#, where implementing different patterns and frameworks utilizing inheritance has been vital. 
+- Have you ever worked with a full stack project? 🌕 Yes, I have developed web applications using C# .NET framework, both hosted on Azure and self-hosted. I have used HTML, CSS, JavaScript, and Bootstrap for the front-end, and ASP.NET MVC and Web API for the back-end.
+- Do you have experience with databases? 🗄️ Yes, I have worked with SQL and MySQL databases for various projects. For example, I created a database-driven website intended to organzie residents and their stays for Salvation Army (This was non-commercial, but for Capstone).
+- Are you familair with the AGILE methodology? 🚀 I am. I have been using it via JIRA in a small team at work for the past year.
+### 🙂 Some questions I'd clarify on
+- Are you knowledgable on data structures and algorithims? 🧱 I am familiar with most data structures, and most of the more common algorithims. It's been years since I had to make one from scratch. I know when to use them, but in general, I will do a bit of research to make sure I am not recreating something that already exists, and that I am using the optimal data structure or algorithim. I'd rather double check when needed than memorize them all.
 
 ## Equipment, IDEs, and Engines
 ### 🖥️ Workspace Setup
