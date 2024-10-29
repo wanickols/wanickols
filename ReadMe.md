@@ -30,11 +30,11 @@
 C++ C# Java html/css Dart
 
 ### 🌐 Languages I am learning or have used before
-javascript Python SQL C PHP
+GO javascript Python SQL C
 
 ### 🖌️ Design Tools
 #### 🎨 Visual 
-adobe-photoshop adobe-Illustrate Blender GIMP 
+adobe-photoshop adobe-Illustrate Blender GIMP CAPCUT
 #### 🎵 Music
 Audacity 
 <br />
@@ -47,7 +47,7 @@ This is hard to write in a list form, as each topic could have varying levels of
 - Are you familiar with Object Oriented Programming? 👩‍👦‍👧 Yes, I learned programming in college with C++, which taught me the principles of OOP such as classes, inheritance, polymorphism, and encapsulation. Since then, I have worked with unity using C#, where implementing different patterns and frameworks utilizing inheritance has been vital. 
 - Have you ever worked with a full stack project? 🌕 Yes, I have developed web applications using C# .NET framework, both hosted on Azure and self-hosted. I have used HTML, CSS, JavaScript, and Bootstrap for the front-end, and ASP.NET MVC and Web API for the back-end.
 - Do you have experience with databases? 🗄️ Yes, I have worked with SQL and MySQL databases for various projects. For example, I created a database-driven website intended to organzie residents and their stays for Salvation Army (This was non-commercial, but for Capstone).
-- Are you familair with the AGILE methodology? 🚀 I am. I have been using it via JIRA in a small team at work for the past year.
+- Are you familair with the AGILE methodology? 🚀 I am. I have been using it via JIRA in a small team at work for the past few years.
 ### 🙂 Some questions I'd clarify on
 - Are you knowledgable on data structures and algorithims? 🧱 I am familiar with most data structures, and most of the more common algorithims. It's been years since I had to make one from scratch. I know when to use them, but in general, I will do a bit of research to make sure I am not recreating something that already exists, and that I am using the optimal data structure or algorithim. I'd rather double check when needed than memorize them all.
 
@@ -58,7 +58,7 @@ i7-13th-gen 3080 Ti windows along with
 i7-10th-gen 1660 Ti laptop
 
 ### ♾️ Game Engines
-unreal unity none(from scratch)
+unreal unity godot none(from scratch)
 
 ### ⚙️ IDEs
 visual-studio eclipse android-studio xcode
